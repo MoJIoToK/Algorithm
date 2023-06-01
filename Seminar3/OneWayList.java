@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.Seminar3;
 
 public class OneWayList<E> {
 
